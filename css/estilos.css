@@ -1,0 +1,20 @@
+*{
+ background-color: #fffbf7;
+}
+
+
+#titulo{
+    color: #46484c;
+}
+
+#desc{
+    color: #8b8b8bcc;
+}
+
+
+button {
+    background-color: #025157;
+}
+button h4 {
+    text-decoration-color: #fff;
+}
